@@ -1,0 +1,7 @@
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Infrastructure\obj\Release\Monitor_shell.Infrastructure.csprojResolveAssemblyReference.cache
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Infrastructure\bin\Release\Monitor_shell.Infrastructure.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Infrastructure\bin\Release\Monitor_shell.Infrastructure.pdb
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Infrastructure\bin\Release\SqlServerDataAdapter.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Infrastructure\bin\Release\AutoMapper.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Infrastructure\obj\Release\Monitor_shell.Infrastructure.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Infrastructure\obj\Release\Monitor_shell.Infrastructure.pdb

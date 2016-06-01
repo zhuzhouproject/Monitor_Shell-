@@ -1,0 +1,14 @@
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\obj\Release\Monitor_shell.Web.csprojResolveAssemblyReference.cache
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\Monitor_shell.Web.dll.config
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\Monitor_shell.Web.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\Monitor_shell.Web.pdb
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\Monitor_shell.Infrastructure.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\Monitor_shell.Service.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\StatisticalReport.Infrastructure.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\AutoSetParameters.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\AutoMapper.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\mDbDataAdaper.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\Monitor_shell.Infrastructure.pdb
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\bin\Monitor_shell.Service.pdb
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\obj\Release\Monitor_shell.Web.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Web\obj\Release\Monitor_shell.Web.pdb

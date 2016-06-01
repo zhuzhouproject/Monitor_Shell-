@@ -1,0 +1,14 @@
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\obj\Release\Monitor_shell.Service.csprojResolveAssemblyReference.cache
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\Monitor_shell.Service.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\Monitor_shell.Service.pdb
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\AutoSetParameters.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\EnergyConsumption.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\Monitor_shell.Infrastructure.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\SqlServerDataAdapter.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\Standard_GB16780-2012.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\StatisticalReport.Infrastructure.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\mDbDataAdaper.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\AutoMapper.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\bin\Release\Monitor_shell.Infrastructure.pdb
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\obj\Release\Monitor_shell.Service.dll
+E:\NXJC\ZhuZhou项目\Monitor_shell_zhuzhou\Monitor_shell_zhuzhou\Monitor_shell.Service\obj\Release\Monitor_shell.Service.pdb
