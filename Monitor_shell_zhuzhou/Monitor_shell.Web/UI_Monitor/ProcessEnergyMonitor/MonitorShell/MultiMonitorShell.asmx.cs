@@ -11,6 +11,7 @@ using System.Text;
 using System.Linq;
 using System.Web;
 using System.Web.Services;
+using Monitor_shell.Service.ProcessEnergyMonitor.TargetValue;
 
 namespace Monitor_shell.Web.UI_Monitor.ProcessEnergyMonitor.MonitorShell
 {
@@ -28,11 +29,11 @@ namespace Monitor_shell.Web.UI_Monitor.ProcessEnergyMonitor.MonitorShell
         [WebMethod]
         public SceneMonitor GetRealTimeData(string ids, string organizationId, string sceneName)
         {
+            
             IList<DataItem> dataItems = new List<DataItem>();
 
             string[] iditems = ids.Split(',');
             int count = iditems.Count();
-
             Dictionary<string, IList<string>> idDictionary = new Dictionary<string, IList<string>>();
             for (int i = 0; i < count - 1; i++)
             {
@@ -160,6 +161,36 @@ namespace Monitor_shell.Web.UI_Monitor.ProcessEnergyMonitor.MonitorShell
                             idDictionary[key].Add(itemArry[1]);
                         }
                     }
+                    else if (itemArry[2] == "TargetOverall")
+                    {
+                        string providerType = "TargetOverall";
+                        string key = itemArry[0] + "," + providerType;
+
+                        if (!idDictionary.Keys.Contains(key))
+                        {
+                            idDictionary.Add(key, new List<string>());
+                            idDictionary[key].Add(itemArry[1]);
+                        }
+                        else
+                        {
+                            idDictionary[key].Add(itemArry[1]);
+                        }    
+                    }
+                    else if (itemArry[2] == "ThreeTarget")
+                    {
+                        string providerType = "ThreeTarget";
+                        string key = itemArry[0] + "," + providerType;
+                        string[] items = itemArry[1].Split('_');
+                        if (!idDictionary.Keys.Contains(key))
+                        {
+                            idDictionary.Add(key, new List<string>());
+                            idDictionary[key].Add(items[0]);
+                        }
+                        else
+                        {
+                            idDictionary[key].Add(items[0]);
+                        }    
+                    }
                     else
                     {
                         string providerType = "Realtime" + itemArry[2];
@@ -174,7 +205,7 @@ namespace Monitor_shell.Web.UI_Monitor.ProcessEnergyMonitor.MonitorShell
                         {
                             idDictionary[key].Add(itemArry[1]);
                         }
-                    }
+                    } 
 
                 } //if结束
 
@@ -193,13 +224,20 @@ namespace Monitor_shell.Web.UI_Monitor.ProcessEnergyMonitor.MonitorShell
                         dataItems.Add(item);  //IList<DataItem>
                     }
                 }
+                else {
+                    IEnumerable<DataItem> targetItems = EnergyConsumptionTargetValue.TargetValueItems(keyitem, mvariableids);
+                    foreach (var targetItem in targetItems)
+                    {
+                        dataItems.Add(targetItem);  //IList<DataItem>
+                    }
+                }
             }
 
             SceneMonitor result = new SceneMonitor();
             result.Name = sceneName;
             result.time = DateTime.Now;
             result.DataSet = dataItems;
-
+            
             return result;
         }
 
@@ -311,16 +349,10 @@ namespace Monitor_shell.Web.UI_Monitor.ProcessEnergyMonitor.MonitorShell
 
         //获取标签信息
         [WebMethod]
-        public  string GetLableJson()
+        public string GetLableJson()
         {
             string json = MultiTrendlineRendererService.GetLableName();
             return json;
         }
-
-        //[WebMethod]
-        //public string GetEquipmentInfo()
-        //{
-
-        //}
     }
 }

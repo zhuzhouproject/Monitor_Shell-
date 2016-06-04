@@ -52,6 +52,76 @@
                 <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>clinker_MixtureMaterialsOutput>Class" class="mchart nodisplay"></span></td>
             </tr>
         </table>
+
+
+
+
+        <%-- <table class="mytable" style="position: absolute; top: 613px; left: 86px; width:45px;">
+            <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>rawMaterialsPreparation>Target_Overall" style="width:45px" ></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>clinkerPreparation>Target_Overall"style="width:45px"></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_cementmill01>cementPreparation>Target_Overall"style="width:45px"></span></td>
+            </tr>
+        </table>
+         <table class="mytable" style="position: absolute; top: 612px; left: 139px; width:45px;">
+            <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>rawMaterialsPreparation>Target_Overall" style="width:45px" ></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>clinkerPreparation>Target_Overall"style="width:45px"></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_cementmill01>cementPreparation>Target_Overall"style="width:45px"></span></td>
+            </tr>
+        </table>
+         <table class="mytable" style="position: absolute; top: 611px; left: 192px; width:45px;">
+            <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>rawMaterialsPreparation>Target_Overall" style="width:45px" ></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>clinkerPreparation>Target_Overall"style="width:45px"></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_cementmill01>cementPreparation>Target_Overall"style="width:45px"></span></td>
+            </tr>
+        </table>--%>
+
+
+
+
+     <table class="mytable" style="position: absolute; top: 620px; left: 276px; width:55px;">
+            <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>rawMaterialsPreparation>TargetOverall" style="width:55px" ></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_clinker01>clinkerPreparation>TargetOverall"style="width:55px"></span></td>
+            </tr>
+          <tr>
+                <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_cementmill01>cementPreparation>TargetOverall"style="width:55px"></span></td>
+        </tr>
+        </table>
+
+
+
+          <table class="mytable" style="position: absolute; top: 621px; left: 114px; ">
+                    <tr>
+                       <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_cementmill01>cementPreparation_TargetMoment>ThreeTarget"></span></td>
+            </tr>
+                         <tr>
+                       <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_cementmill01>cementPreparation_TargetClass>ThreeTarget"></span></td>
+            </tr>
+
+              <tr>
+                       <td><span id="zc_zcshn_zhuzhouc_zhuzhouf_cementmill01>cementPreparation_TargetDay>ThreeTarget"></span></td>
+            </tr>
+
+
+   
+        </table>
     </div>
     <div id="htmlContainer"></div>
 </body>

@@ -1630,7 +1630,6 @@
     <Content Include="UI_Monitor\images\page\zc_zcshn_zhuzhouc_zhuzhouf.png" />
     <Content Include="UI_Monitor\images\page\zc_zcshn_zhuzhouc_zhuzhouf_cementmill01.png" />
     <Content Include="UI_Monitor\images\page\zc_zcshn_zhuzhouc_zhuzhouf_cementmill02.png" />
-    <Content Include="UI_Monitor\images\page\zc_zcshn_zhuzhouc_zhuzhouf_clinker01.jpg" />
     <Content Include="UI_Monitor\images\page\zc_zcshn_zhuzhouc_zhuzhouf_clinker01_sheng.png" />
     <Content Include="UI_Monitor\images\page\zc_zcshn_zhuzhouc_zhuzhouf_clinker01_shu.png" />
     <Content Include="UI_Monitor\js\common\alarm.js" />
